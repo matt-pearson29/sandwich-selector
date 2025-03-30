@@ -19,9 +19,11 @@ fieldset{
     width: 60%;
     height: 300px;
     margin: auto;
+    border: solid black 2px;
 }
 
 #fname{
-    margin: auto;
-    margin-bottom: 30px;
+    margin-left: 40%;
+    margin-bottom: 20px;
+    border: solid black 1px;
 }
