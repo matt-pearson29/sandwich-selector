@@ -12,10 +12,10 @@ h2{
     text-align: center;
 }
 form{
-    margin-left: 50%;
+    margin-left: auto;
     margin-top: 75px;
 }
 fieldset{
-    width: 50%;
+    width: 70%;
 }
 
