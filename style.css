@@ -41,5 +41,6 @@ input[type=submit] {
     opacity: 0.9;
   }
   fieldset{
-
+    width: 60%;
+    margin-left: 20%;
   }
