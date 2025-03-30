@@ -11,19 +11,12 @@ h1{
 h2{
     text-align: center;
 }
-form{
-    margin-left: auto;
-    margin-top: 75px;
-}
-fieldset{
-    width: 60%;
-    height: 300px;
-    margin: auto;
-    border: solid black 2px;
-}
-
-#fname{
-    margin-left: 40%;
-    margin-bottom: 20px;
-    border: solid black 1px;
+input[type=text], select{
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid black;
+  box-sizing: border-box;
+  opacity: 1.0;
 }
