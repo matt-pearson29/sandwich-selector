@@ -1,10 +1,10 @@
 body{
     background-image: url("assets/images/background.jpg");
     background-repeat: no-repeat;
-    background: center;
+    
 }
 h1{
     text-align: center;
     margin-top: 50px;
-    font-size: 20px;
+    font-size: 40px;
 }
