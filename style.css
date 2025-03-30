@@ -18,10 +18,10 @@ input[type=text], select{
   display: inline-block;
   border: 1px solid black;
   box-sizing: border-box;
-  opacity: 1;
+  opacity: 0.8;
 }
 input[type=submit] {
-    width: 100%;
+    width: 70%;
     background-color: #4CAF50;
     color: white;
     padding: 14px 20px;
