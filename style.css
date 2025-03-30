@@ -41,3 +41,6 @@ input[type=submit] {
     margin-left: 20%;
     border: 2px solid black;
   }
+  .radio-inline{
+    display: inline;
+  }
