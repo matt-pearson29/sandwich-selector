@@ -14,7 +14,7 @@ h2{
 input[type=text], select{
     width: 70%;
   padding: 12px 20px;
-  margin: 25px 50px;
+  margin: 15px 50px;
   display: inline-block;
   border: 1px solid black;
   box-sizing: border-box;
@@ -25,7 +25,7 @@ input[type=submit] {
     background-color: #4CAF50;
     color: white;
     padding: 14px 20px;
-    margin: 25px 50px;
+    margin: 15px 50px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
@@ -42,5 +42,5 @@ input[type=submit] {
   }
   fieldset{
     width: 60%;
-    margin-left: 20%;
+    margin-left: 25%;
   }
