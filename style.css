@@ -13,7 +13,7 @@ h2{
 }
 p{
   text-align: center;
-  margin-top: 50%;
+  margin-top: 30%;
 }
 input[type=text], select{
     width: 70%;
@@ -62,7 +62,8 @@ input[type=submit] {
   }
   p{
     text-align: center;
-    margin-top: 50%;
+    margin-top: 60%;
+    font-size: 35px;
   }
   input[type=text], select{
       width: 95%;
