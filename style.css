@@ -14,6 +14,7 @@ h2{
 p{
   text-align: center;
   margin-top: 10%;
+  font-size: 40px;
 }
 input[type=text], select{
     width: 70%;
