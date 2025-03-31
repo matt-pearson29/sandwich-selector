@@ -18,7 +18,7 @@ input[type=text], select{
   display: inline-block;
   border: 1px solid black;
   box-sizing: border-box;
-  opacity: 1.0;
+  opacity: 0.0;
 }
 input[type=submit] {
     width: 70%;
@@ -29,7 +29,7 @@ input[type=submit] {
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    opacity: 0.9;
+    opacity: 0.0;
   }
   
   input[type=submit]:hover {
@@ -63,7 +63,7 @@ input[type=submit] {
     display: inline-block;
     border: 1px solid black;
     box-sizing: border-box;
-    opacity: 0.9;
+    opacity: 0.0;
   }
   input[type=submit] {
       width: 95%;
@@ -74,7 +74,7 @@ input[type=submit] {
       border: none;
       border-radius: 4px;
       cursor: pointer;
-      opacity: 0.9;
+      opacity: 0.0;
     }
     
     input[type=submit]:hover {
