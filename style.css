@@ -62,12 +62,13 @@ input[type=submit] {
   }
   p{
     text-align: center;
-    margin-top: 60%;
+    margin-top: 30%;
     font-size: 35px;
   }
   img{
     width: 50%;
     height: 60px;
+    margin-top: 30px;
   }
   input[type=text], select{
       width: 95%;
