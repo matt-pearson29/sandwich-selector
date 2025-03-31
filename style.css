@@ -16,6 +16,9 @@ p{
   margin-top: 10%;
   font-size: 40px;
 }
+img{
+margin-left: 25%;
+}
 input[type=text], select{
     width: 70%;
   padding: 12px 20px;
@@ -68,8 +71,9 @@ input[type=submit] {
   }
   img{
     width: 50%;
-    height: 60px;
+    height: 160px;
     margin-top: 30px;
+    margin-left: 25%;
   }
   input[type=text], select{
       width: 95%;
