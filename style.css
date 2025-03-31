@@ -13,7 +13,7 @@ h2{
 }
 p{
   text-align: center;
-  margin-top: 30%;
+  margin-top: 10%;
 }
 input[type=text], select{
     width: 70%;
@@ -64,6 +64,10 @@ input[type=submit] {
     text-align: center;
     margin-top: 60%;
     font-size: 35px;
+  }
+  img{
+    width: 50%;
+    height: 60px;
   }
   input[type=text], select{
       width: 95%;
