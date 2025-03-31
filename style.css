@@ -18,7 +18,7 @@ input[type=text], select{
   display: inline-block;
   border: 1px solid black;
   box-sizing: border-box;
-  opacity: 0.9;
+  opacity: 0.1;
 }
 input[type=submit] {
     width: 70%;
