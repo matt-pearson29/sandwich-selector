@@ -56,6 +56,10 @@ input[type=submit] {
   h2{
       text-align: center;
   }
+  p{
+    text-align: center;
+    margin-top: 40%;
+  }
   input[type=text], select{
       width: 95%;
     padding: 12px 20px;
