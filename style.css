@@ -30,6 +30,15 @@ input[type=text], select{
   box-sizing: border-box;
   opacity: 0.5;
 }
+nput[type=email], select{
+  width: 70%;
+padding: 5px 10px;
+margin: 5px 110px;
+display: inline-block;
+border: 1px solid black;
+box-sizing: border-box;
+opacity: 0.5;
+}
 input[type=submit] {
     width: 70%;
     background-color: #4CAF50;
@@ -80,14 +89,24 @@ input[type=submit] {
     border-radius: 50%;
   }
   input[type=text], select{
-      width: 95%;
-    padding: 5px 10px;
-    margin: 5px 5px;
-    display: inline-block;
-    border: 1px solid black;
-    box-sizing: border-box;
-    opacity: 0.5;
-  }
+    width: 95%;
+  padding: 5px 10px;
+  margin: 5px 5px;
+  display: inline-block;
+  border: 1px solid black;
+  box-sizing: border-box;
+  opacity: 0.5;
+}
+  
+  input[type=email], select{
+    width: 95%;
+  padding: 5px 10px;
+  margin: 5px 5px;
+  display: inline-block;
+  border: 1px solid black;
+  box-sizing: border-box;
+  opacity: 0.5;
+}
   input[type=submit] {
       width: 95%;
       background-color: #4CAF50;
