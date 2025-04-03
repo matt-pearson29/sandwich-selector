@@ -30,7 +30,7 @@ input[type=text], select{
   box-sizing: border-box;
   opacity: 0.5;
 }
-nput[type=email], select{
+input[type=email], select{
   width: 70%;
 padding: 5px 10px;
 margin: 5px 110px;
